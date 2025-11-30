@@ -1,0 +1,25 @@
+{
+  "name": "hamburguesas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i estilos/style.css -o estilos/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlonrazmirez2/ProyectoHamburguesaCss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/marlonrazmirez2/ProyectoHamburguesaCss/issues"
+  },
+  "homepage": "https://github.com/marlonrazmirez2/ProyectoHamburguesaCss#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
